@@ -1,0 +1,5 @@
+google-cloud-dialogflow-cx
+google-cloud-firestore
+functions-framework
+requests
+Flask
